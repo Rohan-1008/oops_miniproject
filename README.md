@@ -30,9 +30,9 @@ Folder               | Description
    PS No     |        Name                |    Features               | Issues Raised |Issues Resolved|No. of Test Cases  |Test Case Pass
 -------------|----------------------------|---------------------------|----------------|---------------|---------------|--------------
 | `99005829` | Kalli Mounica Lakshmi      |         Test plan                  |              |              |              |    
-| `` |                                    |                           |                |            |            | 
-| `` |                                    |                           |               |              |               |  
-| `` |                                    | Added Design & UML diagrams |               |             |             | 
+| `99005777  |  Rohan                     |                           |                |            |            | 
+| `99005797` |   Ramya                         |                           |               |              |               |  
+| `99005772` |   Shreyashi                         | Added Design & UML diagrams |               |             |             | 
 
 ## Challenges Faced and How Was It Overcome
 
