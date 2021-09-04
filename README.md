@@ -31,9 +31,9 @@ Folder               | Description
    PS No     |        Name                |    Features               | Issues Raised |Issues Resolved|No. of Test Cases  |Test Case Pass
 -------------|----------------------------|---------------------------|----------------|---------------|---------------|--------------
 | `99005829` | Kalli Mounica Lakshmi      |         Test plan                  |              |              |              |    
-| `` |                                    |                           |       1         |      1        |    nil          | nil
-| `` |                                    |                           |         1       |     1         |        nil       |  nil
-| `` |                                    | Added Design & UML diagrams |    1            |    2          |      Nil         | Nil
+| `` |                                    |                           |                |            |            | 
+| `` |                                    |                           |               |              |               |  
+| `` |                                    | Added Design & UML diagrams |               |             |             | 
 
 ## Challenges Faced and How Was It Overcome
 
