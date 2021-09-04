@@ -15,3 +15,19 @@ Where:The System permits  customers to submit Online or order for items or servi
 
 How  : It is the process whereby consumers directly buy goods or services from a seller in real-time, without an intermediary service, over the Internet.
 
+# Detail requirements
+## High Level Requirements:
+|ID	 |                            Description	                      |     Status    |
+|----|--------------------------------------------------------------|---------------|
+|HLR01	|User should be able to browse the catalog              |  Implemented |
+|HLR02	|User should be able to view cart	|  Implemented |
+|HLR03 |User should be able to checkout/exit                                 |   Implemented |
+##  Low level Requirements:
+|ID  |                       Description               |HLR ID|	     Status      |
+|----|-------------------------------------------------|------|----------------|
+|LLR01	|User is allowed to choose what type of item he neds to add/purchase	 |HLR01|  Implemented    |
+|LLR02	|	User is able to get more information on the products                     |HLR01|   Implemented    |
+|LLR03	|User is able to add more than one item 	        |HLR02|   Implemented    |
+|LLR04	|User is able to update cart	 |HLR02|   Implemented    |
+|LLR05	|User is able to calculate totel price |HLR03|   Implemented    |
+|LLR06	|User is allowed to go back to main menu	 |HLR03|   Implemented    |
