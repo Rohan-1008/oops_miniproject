@@ -1,3 +1,15 @@
+## Requirements
+System setup
+1.1 Software Requirements
+• Visual studio code
+• MinGw
+• Windows 10
+
+1.2 Software Requirements
+• Ram
+• Processor
+• Hard Drive
+
 ## INTRODUCTION
 
 The purpose of the project is to automate and facilitate the whole process of shopping. This application fixes the limitation and problems of paper based processes. It also saves time.
