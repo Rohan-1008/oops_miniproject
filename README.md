@@ -29,8 +29,8 @@ Folder               | Description
 
    PS No     |        Name                |    Features               | Issues Raised |Issues Resolved|No. of Test Cases  |Test Case Pass
 -------------|----------------------------|---------------------------|----------------|---------------|---------------|--------------
-| `99005829` | Kalli Mounica Lakshmi      |         Test plan                  |              |              |              |    
-| `99005777  |  Rohan                     |                           |                |            |            | 
+| `99005829` | Kalli Mounica Lakshmi      |         Requirements,documentation                 |              |              |              |    
+| `99005777`  |  Rohan                     |                           |                |            |            | 
 | `99005797` |   Ramya                         |                           |               |              |               |  
 | `99005772` |   Shreyashi                         | Added Design & UML diagrams |               |             |             | 
 
