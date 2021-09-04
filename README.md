@@ -1,7 +1,10 @@
 # oops_miniproject
 # Shopping cart
+# Folder Structure
 Build | Code Quality | Unity | [Git Inspector](using github.io option)   | Codacy
  ------|--------------|-------|-------------------------------------------|----------------------
+
+|[![C/C++ CI]||[![cppcheck-action]
 
 
 !shopping cart
