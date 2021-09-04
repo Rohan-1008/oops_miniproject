@@ -1,5 +1,4 @@
 # oops_miniproject
-# Shopping cart
 ![Shopping cart](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.codeproject.com%2FKB%2Faspnet%2FSimpleShoppingCart%2FShoppingCart.jpg&imgrefurl=https%3A%2F%2Fwww.codeproject.com%2FArticles%2F140787%2FSimple-Shopping-Cart&tbnid=5480ClE6AMWDeM&vet=12ahUKEwjboOjGhObyAhVyxXMBHZBfDVgQMygBegUIARCwAQ..i&docid=iuIJ06MkkpSzgM&w=367&h=252&q=shopping%20cart%20picture%20for%20c%2B%2B%20stl%20%20project&hl=en&ved=2ahUKEwjboOjGhObyAhVyxXMBHZBfDVgQMygBegUIARCwAQ)
 # Folder Structure
 Build | Code Quality | Unity | [Git Inspector](using github.io option)   | Codacy
