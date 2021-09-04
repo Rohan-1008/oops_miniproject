@@ -3,8 +3,7 @@
 # Folder Structure
 Build | Code Quality | Unity | [Git Inspector](using github.io option)   | Codacy
  ------|--------------|-------|-------------------------------------------|----------------------
-|[![Code Quality - Static Code - Cppcheck](https://github.com/Rohan-1008/SDLC-Mini-Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Rohan-1008/SDLC-Mini-Project/actions/workflows/cppcheck.yml)[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Rohan-1008/SDLC-Mini-Project/actions/workflows/dynamic-code-quality.yml/badge.svg)](https://github.com/Rohan-1008/SDLC-Mini-Project/actions/workflows/dynamic-code-quality.yml)|[![Unit Testing - Unity](https://github.com/Rohan-1008/SDLC-Mini-Project/actions/workflows/unity.yml/badge.svg)](https://github.com/Rohan-1008/SDLC-Mini-Project/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/Rohan-1008/SDLC-Mini-Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Rohan-1008/SDLC-Mini-Project/actions/workflows/gitinspector.yml)
-
+[![C/C++ CI - Build Status](https://github.com/Rohan-1008/SDLC-Mini-Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Rohan-1008/SDLC-Mini-Project/actions/workflows/c-cpp.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/Rohan-1008/SDLC-Mini-Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Rohan-1008/SDLC-Mini-Project/actions/workflows/cppcheck.yml)[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Rohan-1008/SDLC-Mini-Project/actions/workflows/dynamic-code-quality.yml/badge.svg)](https://github.com/Rohan-1008/SDLC-Mini-Project/actions/workflows/dynamic-code-quality.yml)|[![Unit Testing - Unity](https://github.com/Rohan-1008/SDLC-Mini-Project/actions/workflows/unity.yml/badge.svg)](https://github.com/Rohan-1008/SDLC-Mini-Project/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector]
 
 
 ## !shopping cart
