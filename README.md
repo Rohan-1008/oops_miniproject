@@ -2,7 +2,6 @@
 # Shopping cart
 Build | Code Quality | Unity | [Git Inspector](using github.io option)   | Codacy
  ------|--------------|-------|-------------------------------------------|----------------------
-[![C/C++ CI - Build Status] | [![Code Quality - Static Code - Cppcheck] [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/shreeman05/SDLC_team-14_Smart_Parking_system/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)][![CI-Coverage] | [![Unit Testing - Unity] | [![Contribution Check - Git Inspector] |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0ab0161d21f14caba29f18489d089d21)]
 
 
 !shopping cart
@@ -20,7 +19,7 @@ Folder               | Description
 `2_Design`     | Documents specifying design details
 `3_Implementation`   | All code and documentation
 `4_Test_Plan` | Documents with test plans and procedures
-`5_Report`           | The Report of the Mini Project
+`5_Documentation`        | The Report of the Mini Project
 `6_Image and Video`  | Image and Video related to the demonstration
 `7_Other`           | Ant Others things
 
