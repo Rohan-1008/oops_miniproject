@@ -1,6 +1,6 @@
 # oops_miniproject
 # Shopping cart
-![Shopping cart](https://www.freepik.com/free-vector/different-elements-online-shopping_1033321.htm#page=1&query=shopping%20cart&position=11)
+![Shopping cart](https://img.freepik.com/free-vector/mobile-application-shopping-online-website-concept_228260-39.jpg?size=626&ext=jpg)
 # Folder Structure
 Build | Code Quality | Unity | [Git Inspector](using github.io option)   | Codacy
  ------|--------------|-------|-------------------------------------------|----------------------
